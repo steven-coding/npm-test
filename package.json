@@ -1,0 +1,17 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"preinstall": "echo preinstall called!",
+	"install": "echo install called!",
+	"postinstall": "echo postinstall called!",
+	"prepublish": "echo prepublish called!",
+	"preprepare": "echo preprepare called!",
+	"prepare": "echo prepare called!",
+	"postprepare": "echo postprepare called!"
+  },
+  "author": "",
+  "license": "ISC"
+}
